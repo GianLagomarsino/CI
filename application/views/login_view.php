@@ -5,7 +5,7 @@
 <body>
 
 <nav>
-<a href="<?php echo base_url('index.php/productos/administracion');   ?>">Administracion Productos Dollars</a> |
+<a href="<?php echo base_url('index.php/productos/administracion');   ?>">Administracion Productos Dollars del caso penta</a> |
 <a href="<?php echo base_url('index.php/welcome/insertar');   ?>">Administracion Usuarios</a> |
 <a href="<?php echo base_url('index.php/welcome/modificar');   ?>">Administracion Clientes</a> |
 
